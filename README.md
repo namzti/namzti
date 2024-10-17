@@ -1,4 +1,3 @@
-# streamlit_template
 
 ## 概要
 Streamlitを使用して開発するためのテンプレートです。このテンプレートは「Public」で作成することを推奨します
@@ -8,6 +7,5 @@ Streamlitを使用して開発するためのテンプレートです。この�
 - Python、Streamlitの基本的な使い方を学ぶことができます
 
 ## 使用方法
-1. リポジトリをクローンまたはダウンロードします
-2. Streamlitのマイページから、デプロイしてください（ https://streamlit.io/ ）
+tのマイページから、デプロイしてください（ https://streamlit.io/ ）
 
